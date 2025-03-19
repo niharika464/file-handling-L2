@@ -1,5 +1,3 @@
-Rivers are a symbol of life, providing essential resources vital for the health and well-being of our planet.
-They provide a habitat for a variety of plants and animals and are necessary for our ecosystems.
-Fish swim in their waters, birds fly overhead, and beavers build their dams, all relying on the river for their survival.
-Many trees and vegetation rely on seeds carried by rivers to be dispersed for thousands of miles.
 
+ i am using operations on a file....
+ i am working on the new module called as file handling....
